@@ -7,8 +7,8 @@
 
     <tech.picnic.fingerpaintview.FingerPaintImageView
         android:id="@+id/finger"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_width="match_parent"
+        android:layout_height="360dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="8dp"
